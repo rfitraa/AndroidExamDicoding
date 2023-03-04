@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidExamDicoding</string>
+    <string name="splash_screen">EX\'ACT</string>
+    <string name="splash_screen_subtitle">EXO Fact and Information</string>
+</resources>
