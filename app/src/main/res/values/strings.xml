@@ -2,4 +2,143 @@
     <string name="app_name">EX\'ACT</string>
     <string name="splash_screen">EX\'ACT</string>
     <string name="splash_screen_subtitle">EXO Fact and Information</string>
+
+    <string name="exo_name">EXO</string>
+    <string name="desc">Description</string>
+    <string name="about">About Me</string>
+
+    <string-array name="data_name">
+        <item>EXO</item>
+        <item>Suho</item>
+        <item>Xiumin</item>
+        <item>Lay</item>
+        <item>Baekhyun</item>
+        <item>Chen</item>
+        <item>Chanyeol</item>
+        <item>D.O</item>
+        <item>Kai</item>
+        <item>Sehun</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>EXO (엑소) is a South Korean boy group that currently consists of: Suho, Xiumin, Baekhyun, Chen, Chanyeol, D.O., Kai, and Sehun. On April 8, 2022 Lay announced his departure from SM Ent., no details regarding his possible future activities as an EXO member have been given. Former members: Kris, Tao and Luhan. EXO debuted on April 8, 2012, under SM Entertainment.</item>
+        <item>Kim Jun-myeon, better known by his stage name Suho is a South Korean singer, songwriter and actor. He is currently the leader and main vocalist of the South Korean-Chinese boy group EXO and its subunit EXO-K.</item>
+        <item>Kim Min-seok, or better known by his stage name Xiumin, is a South Korean singer and actor. He is known as a member of the South Korean-Chinese music group EXO, along with its subunits EXO-M and EXO-CBX. He debuted as a soloist on September 26, 2022 with the release of his EP, Brand New.</item>
+        <item>Zhang Yixing, better known by his stage name Lay Zhang or simply Lay, is a Chinese singer, rapper, songwriter, dancer and actor. He debuted in 2012 as a member of the South Korean-Chinese boy group EXO and its subunit EXO-M under SM Entertainment.</item>
+        <item>Byun Baek-hyun, or better known by the mononym Baekhyun is a South Korean singer, songwriter and actor. In 2012, Baekhyun debuted as a member of the South Korean-Chinese group EXO. He is also a member of two EXO subunits, namely EXO-K and EXO-CBX. He is also the leader of the SuperM group.</item>
+        <item>Kim Jong-dae, or better known by his stage name, Chen, is a South Korean singer and songwriter. He debuted in 2012 as a member and main vocalist of the South Korean-Chinese boy group EXO, and its subunit EXO-M.</item>
+        <item>Park Chan-yeol, better known by the mononym Chanyeol is a South Korean rapper, singer, songwriter and actor. He is a member of the Chinese-South Korean boy group EXO and its sub-group EXO-K.</item>
+        <item>Doh Kyung-soo, also professionally known as D.O., is a South Korean singer and actor, best known as a member of the South Korean-Chinese boy group Exo</item>
+        <item>Kim Jong-in, or better known as Kai, is a South Korean singer, actor and dancer. He is a member of the South Korean-Chinese singing group EXO and its subgroup EXO-K.</item>
+        <item>Oh Se-hun, better known by his mononym Sehun, is a South Korean singer, rapper, model and actor. He is best known as a member of the South Korean-Chinese boy band EXO and its sub-group EXO-K.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://pbs.twimg.com/media/FqWfFW0aYAIleNV?format=jpg</item>
+        <item>https://i.pinimg.com/564x/cb/32/00/cb320028d87fcc7a0169ea134f61aaad.jpg</item>
+        <item>https://uploads.disquscdn.com/images/fb1ae52f76b4d6c2f36cd04eca174b121c9a21f0b52f7de5f87682cc0d41beaa.jpg</item>
+        <item>https://uploads.disquscdn.com/images/eb5adfed9d31217fc32c8d58ed176974de58ff391d34252c33631e2241e0cabb.jpg</item>
+        <item>https://uploads.disquscdn.com/images/6878cdd9feb2fd925cb642613fde67fb1afabda2e30d9cad46ac8d58ab322a7e.jpg</item>
+        <item>https://i.pinimg.com/564x/b9/3f/e2/b93fe2c85d2b493457c9e385c1e38e7b.jpg</item>
+        <item>https://uploads.disquscdn.com/images/bfd478c33311c01a83829488d89c2a61522d6a8b9d03c5fbf1fbb782c8910c41.jpg</item>
+        <item>https://uploads.disquscdn.com/images/601643f4f6c0df964c0fcfba8881d02d2e85eade5109efc377a7c138b39c94d8.jpg</item>
+        <item>https://uploads.disquscdn.com/images/c6423ad52057cd7e596ed0d091731e71cf1c6684d09c30db2db4248d63380171.jpg</item>
+        <item>https://uploads.disquscdn.com/images/81acb878a0f68fbbbc1763fb277b23eeecec8bbec65bf5dfab93ed90598e497b.jpg</item>
+    </string-array>
+
+    <string-array name="data_stage_name">
+        <item>Suho</item>
+        <item>Xiumin</item>
+        <item>Lay</item>
+        <item>Baekhyun</item>
+        <item>Chen</item>
+        <item>Chanyeol</item>
+        <item>D.O</item>
+        <item>Kai</item>
+        <item>Sehun</item>
+    </string-array>
+
+    <string-array name="data_birth_name">
+        <item>Kim Jun Myeon</item>
+        <item>Kim Min Seok</item>
+        <item>Zhang Yixing</item>
+        <item>Byun Baek Hyun</item>
+        <item>Kim Jong Dae</item>
+        <item>Park Chan Yeol</item>
+        <item>Do Kyung Soo</item>
+        <item>Kim Jong In</item>
+        <item>Oh Se Hun</item>
+    </string-array>
+
+    <string-array name="data_position">
+        <item>Leader, Lead Vocalist, Visual</item>
+        <item>Sub Vocalist, Sub Rapper</item>
+        <item>Main Dancer, Sub Vocalist, Sub Rapper</item>
+        <item>Main Vocalist</item>
+        <item>Main Vocalist</item>
+        <item>Main Rapper, Sub Vocalist, Visual</item>
+        <item>Main Vocalist</item>
+        <item>Main Dancer, Sub Rapper, Sub Vocalist, Center, Visual</item>
+        <item>Lead Dancer, Lead Rapper, Visual, Maknae</item>
+    </string-array>
+
+    <string-array name="data_birthday">
+        <item>May 22, 1991</item>
+        <item>March 26, 1990</item>
+        <item>October 7, 1991</item>
+        <item>May 6, 1992</item>
+        <item>September 21, 1992</item>
+        <item>November 27, 1992</item>
+        <item>January 12, 1993</item>
+        <item>January 14, 1994</item>
+        <item>April 12, 1994</item>
+    </string-array>
+
+    <string-array name="data_blood_type">
+        <item>AB</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+        <item>B</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>O</item>
+    </string-array>
+
+    <string-array name="data_mbti">
+        <item>ENFJ</item>
+        <item>ENFJ</item>
+        <item>INFP</item>
+        <item>ESTJ</item>
+        <item>ISTJ</item>
+        <item>ENFJ</item>
+        <item>ENTJ</item>
+        <item>INFJ</item>
+        <item>INTP</item>
+    </string-array>
+
+    <string-array name="data_insta">
+        <item>"@kimjuncotton"</item>
+        <item>"@e_xiu_o</item>
+        <item>"@layzhang</item>
+        <item>"@baekhyunee_exo"</item>
+        <item>-</item>
+        <item>"@real__pcy"</item>
+        <item>-</item>
+        <item>"@zkdlin</item>
+        <item>"@oohsehun"</item>
+    </string-array>
+
+    <string-array name="data_facts">
+        <item>– He lives in the Apujeong neighborhood of Seoul, South Korea.\n– He has an older brother, Kim Dongkyu (4 years older).\n– He became an SM trainee in 2006 when he was 16.\n– He says out of all of the EXO members, he’s the best at public speaking.\n– He is very polite and considerate.</item>
+        <item>– Hometown: Guri, Gyeonggi province.\n– Xiumin has a little sister whose identity he worked very hard to keep a secret.\n– He became an SM trainee in 2008.\n– Specialty: taekwondo, fencing, kendo, and soccer.\n– Though his looks make him appear as the youngest member, he is actually the oldest.</item>
+        <item>- Hometown: Changsha, Hunan, China. \n- He’s an only child\n- He used to be a local child star in China.\n- He became an SM trainee in 2008 when he was 16\n- Specialties: Guitar, dancing, piano.</item>
+        <item>– Hometown: Bucheon, Gyeonggi Province, South Korea.\n– He has an older brother named Byun Baekbeom.– He officially joined SM in 2011.\n– His popular nickname is “Bacon”.\n– Personality: he is a bright, cheerful, childlike person.</item>
+        <item>– Hometown: Siheung, Gyeonggi province.\n– He has an older brother.\n– He became an SM Entertainment trainee in 2011.\n– The thing he is best at is singing high-notes.\n– Has a humorous and very playful personality.</item>
+        <item>– Hometown: Seoul, South Korea.\n– He has a sister, Park Yoo-ra, who used to be a news anchor (3 years older).\n– He became an SM Entertainment trainee in 2008.\n– Specialties: Playing musical instruments (guitar, drum, bass, djembe), rap, acting.\n– He is always cheerful and bright.</item>
+        <item>- Hometown: Goyang, Gyeonggi Province, South Korea.\n– He has an older brother, Do Seungsoo.\n- He became a SM trainee in 2010.\n- Specialties: Singing, beat box, acting.\n- He has a habit of humming songs.</item>
+        <item>- Hometown: Suncheon, South Jeolla Province/Jeollanam-do, S. Korea.\n- Has 2 older sisters (one 9 years older and another 5 years older).\n- He became a SM trainee in 2007, when he was 13.\n- Specialties: Dance (ballet, jazz, hip hop, popping, rocking).\n- He loves playing video games.</item>
+        <item>- Hometown: Seoul, South Korea.\n- He has an older brother (3 years older).\n- He became a SM trainee in 2008, when he was 14.\n- Specialties: Dancing, acting\n- His favorite foods are meat and sushi</item>
+    </string-array>
 </resources>
