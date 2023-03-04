@@ -1,7 +1,10 @@
 package com.dicoding.androidexamdicoding
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
@@ -19,6 +22,27 @@ class MainActivity : AppCompatActivity() {
         list.addAll(getListExo())
         showRecyclerList()
     }
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.menu_main, menu)
+        return super.onCreateOptionsMenu(menu)
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+//        when(item.itemId){
+//            R.id.action_list -> {
+//                val about_me = Intent(this@MainActivity, AboutActivity::class.java)
+//                startActivity(about_me)
+//            }
+//        }
+        if (item.itemId == R.id.about_page){
+            val about_me = Intent(this@MainActivity, AboutActivity::class.java)
+                startActivity(about_me)
+        }
+        return super.onOptionsItemSelected(item)
+    }
+
+
 
     private fun showRecyclerList() {
         rvExo.layoutManager = LinearLayoutManager(this)

@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.AndroidExamDicoding" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/latte_700</item>
-        <item name="colorPrimaryVariant">@color/brown</item>
+        <item name="colorPrimary">@color/brown</item>
+        <item name="colorPrimaryVariant">@color/latte_700</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/latte_500</item>

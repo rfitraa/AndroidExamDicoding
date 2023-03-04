@@ -6,6 +6,9 @@
     <string name="exo_name">EXO</string>
     <string name="desc">Description</string>
     <string name="about">About Me</string>
+    <string name="about_me_name">Rabiatul Fitra Aulia</string>
+    <string name="about_me_email">aulifitra2002@gmail.com</string>
+    <string name="share">Share</string>
 
     <string-array name="data_name">
         <item>EXO</item>
