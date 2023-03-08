@@ -9,9 +9,20 @@
     <string name="about_me_name">Rabiatul Fitra Aulia</string>
     <string name="about_me_email">aulifitra2002@gmail.com</string>
     <string name="share">Share</string>
+    <string name="biodata">Biodata</string>
+    <string name="stage_name">Stage Name</string>
+    <string name="birth_name">Birth Name</string>
+    <string name="position">Position</string>
+    <string name="birthday">Birthday</string>
+    <string name="nationality">Nationality</string>
+    <string name="blood_type">Blood Type</string>
+    <string name="mbti">MBTI</string>
+    <string name="ig">Instagram</string>
+    <string name="weibo">Weibo</string>
+    <string name="facts">Facts</string>
+    <string name="source">Source : https://kprofiles.com/exo-profile-facts/</string>
 
     <string-array name="data_name">
-        <item>EXO</item>
         <item>Suho</item>
         <item>Xiumin</item>
         <item>Lay</item>
@@ -21,10 +32,12 @@
         <item>D.O</item>
         <item>Kai</item>
         <item>Sehun</item>
+        <item>Kris (Former Member)</item>
+        <item>Luhan (Former Member)</item>
+        <item>Tao (Former Member)</item>
     </string-array>
 
     <string-array name="data_desc">
-        <item>EXO (엑소) is a South Korean boy group that currently consists of: Suho, Xiumin, Baekhyun, Chen, Chanyeol, D.O., Kai, and Sehun. On April 8, 2022 Lay announced his departure from SM Ent., no details regarding his possible future activities as an EXO member have been given. Former members: Kris, Tao and Luhan. EXO debuted on April 8, 2012, under SM Entertainment.</item>
         <item>Kim Jun-myeon, better known by his stage name Suho is a South Korean singer, songwriter and actor. He is currently the leader and main vocalist of the South Korean-Chinese boy group EXO and its subunit EXO-K.</item>
         <item>Kim Min-seok, or better known by his stage name Xiumin, is a South Korean singer and actor. He is known as a member of the South Korean-Chinese music group EXO, along with its subunits EXO-M and EXO-CBX. He debuted as a soloist on September 26, 2022 with the release of his EP, Brand New.</item>
         <item>Zhang Yixing, better known by his stage name Lay Zhang or simply Lay, is a Chinese singer, rapper, songwriter, dancer and actor. He debuted in 2012 as a member of the South Korean-Chinese boy group EXO and its subunit EXO-M under SM Entertainment.</item>
@@ -34,20 +47,25 @@
         <item>Doh Kyung-soo, also professionally known as D.O., is a South Korean singer and actor, best known as a member of the South Korean-Chinese boy group Exo</item>
         <item>Kim Jong-in, or better known as Kai, is a South Korean singer, actor and dancer. He is a member of the South Korean-Chinese singing group EXO and its subgroup EXO-K.</item>
         <item>Oh Se-hun, better known by his mononym Sehun, is a South Korean singer, rapper, model and actor. He is best known as a member of the South Korean-Chinese boy band EXO and its sub-group EXO-K.</item>
+        <item>Wu Yi Fan, known as Kris Wu, is a Chinese Canadian actor, singer, record producer, and model. He was a former member of the South Korean-Chinese boy band EXO and its subgroup EXO-M under SM Entertainment, before leaving the group in 2014.</item>
+        <item>Lu Han is a singer from China. He is a former member of EXO-M, a subgroup of the Chinese-South Korean boy band EXO. He is the main singer and dancer of the group.</item>
+        <item>Huang Zitao, better known by his nickname TAO, is a Chinese singer, rapper, songwriter, actor and martial artist. He has been practicing Wushu since he was 5 years old. He is a former member of the K-pop boy band EXO, sub-unit EXO-M with the position of Lead Rapper and the image "Fighter".</item>
     </string-array>
 
-    <string-array name="data_photo">
-        <item>https://pbs.twimg.com/media/FqWfFW0aYAIleNV?format=jpg</item>
-        <item>https://i.pinimg.com/564x/cb/32/00/cb320028d87fcc7a0169ea134f61aaad.jpg</item>
-        <item>https://uploads.disquscdn.com/images/fb1ae52f76b4d6c2f36cd04eca174b121c9a21f0b52f7de5f87682cc0d41beaa.jpg</item>
-        <item>https://uploads.disquscdn.com/images/eb5adfed9d31217fc32c8d58ed176974de58ff391d34252c33631e2241e0cabb.jpg</item>
-        <item>https://uploads.disquscdn.com/images/6878cdd9feb2fd925cb642613fde67fb1afabda2e30d9cad46ac8d58ab322a7e.jpg</item>
-        <item>https://i.pinimg.com/564x/b9/3f/e2/b93fe2c85d2b493457c9e385c1e38e7b.jpg</item>
-        <item>https://uploads.disquscdn.com/images/bfd478c33311c01a83829488d89c2a61522d6a8b9d03c5fbf1fbb782c8910c41.jpg</item>
-        <item>https://uploads.disquscdn.com/images/601643f4f6c0df964c0fcfba8881d02d2e85eade5109efc377a7c138b39c94d8.jpg</item>
-        <item>https://uploads.disquscdn.com/images/c6423ad52057cd7e596ed0d091731e71cf1c6684d09c30db2db4248d63380171.jpg</item>
-        <item>https://uploads.disquscdn.com/images/81acb878a0f68fbbbc1763fb277b23eeecec8bbec65bf5dfab93ed90598e497b.jpg</item>
-    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/suho</item>
+        <item>@drawable/xiumin</item>
+        <item>@drawable/lay</item>
+        <item>@drawable/baekhyun</item>
+        <item>@drawable/chen</item>
+        <item>@drawable/chanyeol</item>
+        <item>@drawable/kyungsoo</item>
+        <item>@drawable/kai</item>
+        <item>@drawable/sehun</item>
+        <item>@drawable/kris</item>
+        <item>@drawable/luhan</item>
+        <item>@drawable/tao</item>
+    </integer-array>
 
     <string-array name="data_stage_name">
         <item>Suho</item>
@@ -59,6 +77,9 @@
         <item>D.O</item>
         <item>Kai</item>
         <item>Sehun</item>
+        <item>Kris</item>
+        <item>Luhan</item>
+        <item>Tao</item>
     </string-array>
 
     <string-array name="data_birth_name">
@@ -71,6 +92,9 @@
         <item>Do Kyung Soo</item>
         <item>Kim Jong In</item>
         <item>Oh Se Hun</item>
+        <item>Wu Yi Fan</item>
+        <item>Lu Han</item>
+        <item>Huang Zi Tao</item>
     </string-array>
 
     <string-array name="data_position">
@@ -83,6 +107,9 @@
         <item>Main Vocalist</item>
         <item>Main Dancer, Sub Rapper, Sub Vocalist, Center, Visual</item>
         <item>Lead Dancer, Lead Rapper, Visual, Maknae</item>
+        <item>Main Rapper, Leader (EXO-M</item>
+        <item>Lead Vocalist, Lead Dancer, Visual, Face of The Group</item>
+        <item>Lead Rapper, Lead Dancer, Sub Vocalist</item>
     </string-array>
 
     <string-array name="data_birthday">
@@ -95,6 +122,25 @@
         <item>January 12, 1993</item>
         <item>January 14, 1994</item>
         <item>April 12, 1994</item>
+        <item>November 6, 1990</item>
+        <item>April 20, 1990</item>
+        <item>May 2, 1993</item>
+    </string-array>
+
+    <string-array name="data_nationality">
+        <item>8 Korean and 1 China</item>
+        <item>Korean</item>
+        <item>Korean</item>
+        <item>China</item>
+        <item>Korean</item>
+        <item>Korean</item>
+        <item>Korean</item>
+        <item>Korean</item>
+        <item>Korean</item>
+        <item>Korean</item>
+        <item>China</item>
+        <item>China</item>
+        <item>China</item>
     </string-array>
 
     <string-array name="data_blood_type">
@@ -107,6 +153,9 @@
         <item>A</item>
         <item>A</item>
         <item>O</item>
+        <item>O</item>
+        <item>A</item>
+        <item>AB</item>
     </string-array>
 
     <string-array name="data_mbti">
@@ -119,6 +168,9 @@
         <item>ENTJ</item>
         <item>INFJ</item>
         <item>INTP</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
     </string-array>
 
     <string-array name="data_insta">
@@ -131,6 +183,24 @@
         <item>-</item>
         <item>"@zkdlin</item>
         <item>"@oohsehun"</item>
+        <item>"@kriswu"</item>
+        <item>"@7_luhan_m"</item>
+        <item>"@hztttao"</item>
+    </string-array>
+
+    <string-array name="data_weibo">
+        <item>-</item>
+        <item>-</item>
+        <item>努力努力再努力x</item>
+        <item>baekhyunee7</item>
+        <item>-</item>
+        <item>real__pcyyyyy</item>
+        <item>-</item>
+        <item>-</item>
+        <item>wu世勋-EXO</item>
+        <item>Mr_凡先生</item>
+        <item>M鹿M</item>
+        <item>CPOPKing-黄子韬</item>
     </string-array>
 
     <string-array name="data_facts">
@@ -143,5 +213,8 @@
         <item>- Hometown: Goyang, Gyeonggi Province, South Korea.\n– He has an older brother, Do Seungsoo.\n- He became a SM trainee in 2010.\n- Specialties: Singing, beat box, acting.\n- He has a habit of humming songs.</item>
         <item>- Hometown: Suncheon, South Jeolla Province/Jeollanam-do, S. Korea.\n- Has 2 older sisters (one 9 years older and another 5 years older).\n- He became a SM trainee in 2007, when he was 13.\n- Specialties: Dance (ballet, jazz, hip hop, popping, rocking).\n- He loves playing video games.</item>
         <item>- Hometown: Seoul, South Korea.\n- He has an older brother (3 years older).\n- He became a SM trainee in 2008, when he was 14.\n- Specialties: Dancing, acting\n- His favorite foods are meat and sushi</item>
+        <item> He was born in Guangzhou, Guangdong province, China, but at age of 10 moved to Vancouver, Canada.\n– Kris’ birth name is Li Jiaheng and his name was changed to Wu Yifan for personal reasons.\n– He is fluent in 4 languages: English, Cantonese, Mandarin, and Korean.\n– Specialties: Languages and Basketball.\n– He’s very social and can talk to anyone.</item>
+        <item>– He was born in Haidian District, Beijing, China.\n– He’s an only child.\n– Auditioned to be a trainee for JYP Entertainment but was not accepted.\n– He likes girls who are demure and quiet.\n– He likes simple clothes.</item>
+        <item>– He was born in Qingdao, Shandong province, China.\n– He’s an only child.\n– Nickname: Peach, Kung Fu Panda.\n– He loves the color blue, Western food, basketball and black cat.\n– His favorite music genre is hip hop and RandB.</item>
     </string-array>
 </resources>
